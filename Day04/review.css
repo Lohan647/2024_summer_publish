@@ -1,0 +1,44 @@
+.sale{
+    color: white;
+    background-color: tomato;
+    border-radius: 20px;
+    width: fit-content;
+    /*padding: 12 3 6 9(top right bottom left)*/
+    padding: 3px 8px 3px 8px;
+    margin-bottom:5px;
+}
+.today{
+    color: white;
+    background-color: pink;
+    border-radius: 20px;
+    width: fit-content;
+    /*padding: 12 3 6 9(top right bottom left)*/
+    padding: 3px 8px 3px 8px;
+    margin-bottom:5px;
+}
+.factory{
+    color: white;
+    font-weight: 800;
+    background-color: darkblue;
+    width: 250px;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+
+    /*두께 선스타일 선색깔*/
+    border: 1px solid red;
+
+    margin-bottom:5px;
+}
+.center{
+    color: white;
+    font-weight: 800;
+    background-color: darkblue;
+    width: 250px;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+
+    /*두께 선스타일 선색깔*/
+    border: 1px solid red;
+
+    margin-bottom:5px;
+}
